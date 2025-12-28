@@ -1,4 +1,4 @@
-# Frontend Website – HTML, CSS & JavaScript
+# Frontend Vibe Coding – HTML, CSS & JavaScript
 
 Projeto de site frontend responsivo desenvolvido com HTML, CSS e JavaScript puro, com deploy automático via GitHub Actions.
 
